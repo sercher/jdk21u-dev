@@ -151,6 +151,7 @@ JVM_InvokeMethod
 JVM_IsArrayClass
 JVM_IsCDSDumpingEnabled
 JVM_IsConstructorIx
+JVM_IsContainerized
 JVM_IsDumpingClassList
 JVM_IsFinalizationEnabled
 JVM_IsHiddenClass
